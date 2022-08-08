@@ -1,5 +1,3 @@
-- [Sound null safety](https://dart.dev/null-safety)
+![inheritance](./assets/abstraction.PNG)
 
-- [Null safety codelab](https://dart.dev/codelabs/null-safety)
-
-![inheritance](./assets/inheirtance.PNG)
+![inheritance](./assets/abs-method.PNG)
